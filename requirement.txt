@@ -1,0 +1,6 @@
+pyyaml
+os
+PIL
+cv2
+tinynet
+conf
